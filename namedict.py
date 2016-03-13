@@ -1,3 +1,10 @@
+'''
+	ArcherC7v1_tp_recovery.bin
+	ArcherC7v2_tp_recovery.bin
+	ArcherC2600_1.0_tp_recovery.bin
+	
+'''
+
 firmware_dict = {
 	'buffalo-wzr-600dhp.bin':'',
 	'buffalo-wzr-hp-ag300h.bin':'',
@@ -30,8 +37,8 @@ firmware_dict = {
 	'tp-link-tl-mr3040-v2.bin':'',
 	'tp-link-tl-mr3220-v1.bin':'',
 	'tp-link-tl-mr3220-v2.bin':'',
-	'tp-link-tl-mr3420-v1.bin':'',
-	'tp-link-tl-mr3420-v2.bin':'',
+	'tp-link-tl-mr3420-v1.bin':'wr842ndv1_tp_recovery.bin',
+	'tp-link-tl-mr3420-v2.bin':'mr3420v2_tp_recovery.bin',
 	'tp-link-tl-wa701n-nd-v1.bin':'',
 	'tp-link-tl-wa701n-nd-v2.bin':'',
 	'tp-link-tl-wa750re-v1.bin':'',
@@ -48,9 +55,9 @@ firmware_dict = {
 	'tp-link-tl-wdr3600-v1.bin':'',
 	'tp-link-tl-wdr4300-v1.bin':'wdr4300v1_tp_recovery.bin',
 	'tp-link-tl-wdr4900-v1.bin':'',
-	'tp-link-tl-wr1043n-nd-v1.bin':'',
-	'tp-link-tl-wr1043n-nd-v2.bin':'',
-	'tp-link-tl-wr1043n-nd-v3.bin':'',
+	'tp-link-tl-wr1043n-nd-v1.bin':'wr1043nv1_tp_recovery.bin',
+	'tp-link-tl-wr1043n-nd-v2.bin':'wr1043nv2_tp_recovery.bin',
+	'tp-link-tl-wr1043n-nd-v3.bin':'wr1043nv3_tp_recovery.bin',
 	'tp-link-tl-wr2543n-nd-v1.bin':'',
 	'tp-link-tl-wr703n-v1.bin':'',
 	'tp-link-tl-wr710n-v1.bin':'',
