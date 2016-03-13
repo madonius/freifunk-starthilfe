@@ -46,7 +46,7 @@ firmware_dict = {
 	'tp-link-tl-wa901n-nd-v3.bin':'',
 	'tp-link-tl-wdr3500-v1.bin':'',
 	'tp-link-tl-wdr3600-v1.bin':'',
-	'tp-link-tl-wdr4300-v1.bin':'',
+	'tp-link-tl-wdr4300-v1.bin':'wdr4300v1_tp_recovery.bin',
 	'tp-link-tl-wdr4900-v1.bin':'',
 	'tp-link-tl-wr1043n-nd-v1.bin':'',
 	'tp-link-tl-wr1043n-nd-v2.bin':'',
