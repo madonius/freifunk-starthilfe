@@ -110,7 +110,7 @@ firmware_dict = {
 	'x86-64.img.gz':'':'',
 	'x86-generic.img.gz':'':'',
 	'x86-kvm.img.gz':'':'',
-	'x86-virtualbox.vdi':'':'',
-	'x86-vmware.vmdk':'':'',
-	'x86-xen.img.gz':'':'',
+	'x86-virtualbox.vdi':'',
+	'x86-vmware.vmdk':'',
+	'x86-xen.img.gz':'',
 }
