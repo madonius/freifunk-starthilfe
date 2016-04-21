@@ -37,7 +37,7 @@ firmware_dict = {
 	'tp-link-tl-mr3040-v2.bin':'',
 	'tp-link-tl-mr3220-v1.bin':'',
 	'tp-link-tl-mr3220-v2.bin':'',
-	'tp-link-tl-mr3420-v1.bin':'wr842ndv1_tp_recovery.bin',
+	'tp-link-tl-mr3420-v1.bin':'mr3420v1_tp_recovery.bin',
 	'tp-link-tl-mr3420-v2.bin':'mr3420v2_tp_recovery.bin',
 	'tp-link-tl-wa701n-nd-v1.bin':'',
 	'tp-link-tl-wa701n-nd-v2.bin':'',
