@@ -77,7 +77,7 @@ firmware_dict = {
 	'tp-link-tl-wr841n-nd-v3.bin':'',
 	'tp-link-tl-wr841n-nd-v5.bin':'',
 	'tp-link-tl-wr841n-nd-v7.bin':'',
-	'tp-link-tl-wr841n-nd-v8.bin':'mr3420v2_tp_recovery.bin',
+	'tp-link-tl-wr841n-nd-v8.bin':'wr841nv8_tp_recovery.bin',
 	'tp-link-tl-wr841n-nd-v9.bin':'wr841nv9_tp_recovery.bin',
 	'tp-link-tl-wr842n-nd-v1.bin':'wr842ndv1_tp_recovery.bin',
 	'tp-link-tl-wr842n-nd-v2.bin':'wr842ndv2_tp_recovery.bin',
